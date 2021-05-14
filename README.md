@@ -1,2 +1,2 @@
 # Guess-Number-Game
-This is a simple guess-number game
+A simple guess-number game
